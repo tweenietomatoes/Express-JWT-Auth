@@ -1,5 +1,5 @@
 {
-  "name": "nodeproje",
+  "name": "Express-JWT Auth",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
